@@ -1,0 +1,24 @@
+/* CSS files add styling rules to your content */
+body {
+  background-color:lightblue;
+}
+h1{
+  background-color: lightblue;
+}
+
+h5{
+font-family: 'Raleway', sans-serif;
+
+}
+div {
+  opacity: 1;
+  color:green;
+}
+div {
+  background: rgba(76, 175, 80, 0.3) /* Green background with 30% opacity */
+}
+p.double {border-style: double;}
+
+a {
+  text-weight:5 0px;
+}
